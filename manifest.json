@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Ayushman Launcher",
-  "description": "Quickly launch Ayushman Singh Chauhan's Media",
+  "description": "Quickly launch Ayushman Singh Chauhan's Social Network Profiles",
   "version": "1.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
